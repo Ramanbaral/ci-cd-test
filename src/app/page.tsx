@@ -186,10 +186,9 @@ export default function Portfolio() {
           <div className="flex flex-col items-center space-y-6">
             {/* Profile Image */}
             <div className="relative w-[200px] h-[200px]">
-              <Image
+              <img
                 src="/profile.jpg"
                 alt="Profile Picture"
-                fill
                 className="object-cover rounded-full border-4 border-primary/20"
               />
             </div>
@@ -198,7 +197,7 @@ export default function Portfolio() {
             <div className="text-center space-y-2">
               <h1 className="text-2xl font-bold text-primary">Raman Baral</h1>
               <p className="text-lg  dark:text-white">
-                FullStack Software Engineer
+                FullStack Engineer
               </p>
             </div>
 
