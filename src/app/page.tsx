@@ -217,7 +217,7 @@ export default function Portfolio() {
             {/* Resume CTA */}
             <Link className="w-full" href="/resume.pdf" target="_blank">
               <Button
-                className="w-full cursor-pointer dark:text-white"
+                className="w-full cursor-pointer dark:text-white bg-red-400"
                 size="lg"
               >
                 View Resume
