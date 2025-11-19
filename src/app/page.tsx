@@ -320,7 +320,7 @@ export default function Portfolio() {
 
               <TabsContent value="projects" className="space-y-6 mt-6">
                 <div className="space-y-4">
-                  <h2 className="text-3xl font-bold">Featured Projects</h2>
+                  <h2 className="text-3xl font-bold">Featured Projects Test changes</h2>
                   <p className="text-muted-foreground">
                     Here are some of my recent projects that showcase my
                     technical skills and problem-solving abilities.
